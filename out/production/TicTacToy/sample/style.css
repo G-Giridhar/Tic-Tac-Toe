@@ -1,0 +1,5 @@
+.button{
+    -fx-pref-width:100px;
+    -fx-pref-height:100px;
+    -fx-background-color: radial-gradient(center 50% 50% , radius 200px ,#eeaeca, #94bbe9);
+}
